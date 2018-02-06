@@ -5,4 +5,4 @@ print ("you by " ,a," tickets "  ',' "You have to pay nis ",a*35)
     
 
 
-	
+	#Exercise to buy tickets
